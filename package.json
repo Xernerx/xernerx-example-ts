@@ -1,6 +1,6 @@
 {
 	"name": "xernerx-example-bot-ts",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "module",
 	"description": "A typescript example bot for the xernerx framework.",
 	"main": "dist/main.js",
